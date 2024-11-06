@@ -1,0 +1,8 @@
+servlets\SignUpServlet.class
+servlets\ApprovalServlet.class
+com\mycompany\useraccessmanagement\JAXRSConfiguration.class
+servlets\LoginServlet.class
+servlets\RequestServlet.class
+utils\DBConnection.class
+com\mycompany\useraccessmanagement\resources\JavaEE8Resource.class
+servlets\SoftwareServlet.class
